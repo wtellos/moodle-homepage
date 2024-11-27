@@ -1,0 +1,468 @@
+<p class="txt-EN lead uk-text-center"><strong>WELCOME to INTERFACE E-Learning platform! <br></strong></p>
+<p class=" txt-EN">The eLearning Platform is dedicated on supporting YOU (VET providers and educators and low-skilled workers) to identify and enhance transversal skills in the workplace. This is possible, by using the online training modules found in the In-service training package and a compendium of interactive learning resources, that focus on topics that cover the needs of private entities, entrepreneurs, and stakeholders.</p>
+
+<p class="txt-DE lead uk-text-center"><strong>WILLKOMMEN bei der INTERFACE E-Learning Plattform!<br></strong></p>
+<p class=" txt-DE">Die eLearning Plattform ist darauf ausgerichtet, SIE (Berufsbildungsanbieter, Ausbilder und gering qualifizierte Arbeitnehmer) dabei zu unterstützen, übergreifende Kompetenzen am Arbeitsplatz zu erkennen und zu verbessern. Dies ist möglich, indem Sie die Online-Schulungsmodule des Fortbildungspakets und ein Kompendium interaktiver Lernressourcen nutzen, die sich auf Themen konzentrieren, die die Bedürfnisse von Privatunternehmen, Unternehmern und Interessengruppen abdecken.</p>
+
+<p class="txt-LV lead uk-text-center"><strong>Laipni lūgti INTERFACE e-mācību platformā!<br></strong></p>
+<p class=" txt-LV">E-mācību platforma ir veltīta tam, lai atbalstītu JŪS (profesionālās izglītības un apmācības pakalpojumu sniedzējus un pedagogus, kā arī mazkvalificētus darbiniekus) noteikt un uzlabot transversālās prasmes darba vietā. Tas ir iespējams, izmantojot tiešsaistes mācību moduļus, kas atrodami apmācību darba vietā paketē, un interaktīvo mācību resursu apkopojumu, kas koncentrējas uz tēmām, kuras aptver privāto struktūru, uzņēmēju un ieinteresēto personu vajadzības.</p>
+
+<p class="txt-PT lead uk-text-center"><strong>BEM-VINDO à plataforma de e-Learning INTERFACE!<br></strong></p>
+<p class=" txt-PT">A plataforma eLearning destina-se a apoiá-lo (prestadores e educadores de EFP e trabalhadores pouco qualificados) a identificar e melhorar as competências transversais no local de trabalho. Isto é possível através da utilização dos módulos de formação em linha que se encontram no pacote de formação em serviço e de um compêndio de recursos de aprendizagem interactivos, que se centram em tópicos que cobrem as necessidades de entidades privadas, empresários e partes interessadas.</p>
+
+<p class="txt-PL lead uk-text-center"><strong>Witamy na platformie e-learningowej INTERFACE!<br></strong></p>
+<p class=" txt-PL">Platforma e-learningowa ma na celu wspieranie UCZNIÓW (organizatorów kształcenia i szkolenia zawodowego, nauczycieli i pracowników o niskich kwalifikacjach) w identyfikowaniu i doskonaleniu umiejętności przekrojowych w miejscu pracy. Jest to możliwe dzięki wykorzystaniu modułów szkoleniowych online znajdujących się w pakiecie szkoleń w miejscu pracy oraz kompendium interaktywnych zasobów edukacyjnych, które koncentrują się na tematach obejmujących potrzeby podmiotów prywatnych, przedsiębiorców i interesariuszy.</p>
+
+<p class="txt-EL lead uk-text-center"><strong>ΚΑΛΩΣ ΗΡΘΑΤΕ στην πλατφόρμα E-Learning INTERFACE!<br></strong></p>
+<p class=" txt-EL">Η Πλατφόρμα eLearning είναι αφιερωμένη στην υποστήριξη σας (παρόχους VET, εκπαιδευτικούς και εργαζόμενους με χαμηλή ειδίκευση) για τον εντοπισμό και την ενίσχυση των εγκάρσιων δεξιοτήτων στο χώρο εργασίας. Αυτό είναι δυνατό, χρησιμοποιώντας τις ηλεκτρονικές ενότητες κατάρτισης που βρίσκονται στο πακέτο εκπαίδευσης εντός υπηρεσίας και μια σύνοψη διαδραστικών πόρων μάθησης, που επικεντρώνονται σε θέματα που καλύπτουν τις ανάγκες ιδιωτικών φορέων, επιχειρηματιών και ενδιαφερόμενων μερών.
+</p>
+<div class="uk-column-1-1 uk-column-1-3@m uk-text-center">
+
+    <!-- Button 1 - Training Package -->
+    <div>
+        <a class="uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="#modal-center" uk-toggle="" aria-expanded="false" style="animation-delay: 300ms;">
+            <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="txt-EN DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">In-service Training Package</span>
+
+            <span class="txt-DE DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Fortbildungspaket</span>
+
+            <span class="txt-LV DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Apmācību darba vietā pakete</span>
+
+            <span class="txt-PL DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Pakiet szkoleniowy dla pracowników</span>
+
+            <span class="txt-PT DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Pacote de formação em serviço</span>
+
+            <span class="txt-EL DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Εκπαιδευτικό Πακέτο</span>
+        </a>
+    </div>
+
+
+    <!-- Button 2 - Infographics -->
+    <div>
+        <a class="uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="#modal-center2" uk-toggle="" aria-expanded="false" style="animation-delay: 600ms;">
+            <img src="/custom__images/home-interface-infographics.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+            <span class="txt-EN DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infographics</span>
+
+            <span class="txt-DE DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infografiken</span>
+
+            <span class="txt-LV DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infografikas</span>
+
+            <span class="txt-PL DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infografiki</span>
+
+            <span class="txt-PT DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infografias</span>
+
+            <span class="txt-EL DDuk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Infographics</span>
+        </a>
+    </div>
+
+    <!-- Button 3 - CoP button -->
+    <div>
+        <a class="txt-EN uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=10" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Community of Practice</span>
+        </a>
+        <a class="txt-DE uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=19" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Gemeinschaft der Praxis</span>
+        </a>
+        <a class="txt-LV uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=20" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Prakses kopiena</span>
+        </a>
+        <a class="txt-PL uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=21" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Społeczność praktyków</span>
+        </a>
+        <a class="txt-PT uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=22" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Comunidade de Prática</span>
+        </a>
+        <a class="txt-EL uk-animation-fade uk-border-rounded uk-button uk-button-text uk-padding-small" href="/course/view.php?id=23" style="animation-delay: 900ms;">
+            <img src="/custom__images/community-of-practice-16.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+
+            <span class="uk-display-block uk-text-lead uk-text-center uk-padding-small uk-text-bold uk-text-uppercase uk-text-default">Κοινότητα πρακτικής</span>
+        </a>
+
+    </div>
+
+</div>
+
+
+
+
+<!-- MODAL 1 - Online Course for Citizens -->
+<div id="modal-center" class="uk-flex-top uk-modal uk-modal-container" uk-modal="">
+    <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+        <!-- <button class="uk-modal-close-outside uk-icon uk-close" type="button" uk-close></button> -->
+        <button class="uk-modal-close-outside uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+                <line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line>
+                <line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line>
+            </svg></button>
+
+        <!-- MODAL 1 CONTENT -->
+        <div class="uk-section uk-padding-small">
+            <div class="uk-container">
+                <h3 class="txt-EN uk-h2 uk-text-bold uk-text-uppercase th--teal">In-service Training Package</h3>
+                <h3 class="txt-DE uk-h2 uk-text-bold uk-text-uppercase th--teal">Fortbildungspaket</h3>
+                <h3 class="txt-LV uk-h2 uk-text-bold uk-text-uppercase th--teal">Apmācību darba vietā pakete</h3>
+                <h3 class="txt-PL uk-h2 uk-text-bold uk-text-uppercase th--teal">Pakiet szkoleniowy dla pracowników</h3>
+                <h3 class="txt-PT uk-h2 uk-text-bold uk-text-uppercase th--teal">Pacote de formação em serviço</h3>
+                <h3 class="txt-EL uk-h2 uk-text-bold uk-text-uppercase th--teal">Πακέτο κατάρτισης κατά τη διάρκεια της υπηρεσίας</h3>
+
+                <div class="uk-child-width-1-3@m uk-grid-match uk-text-center uk-margin-medium-top uk-grid uk-grid-stack" uk-grid="">
+
+                    <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true; delay: 500" style="opacity: 0;">
+
+                        <!-- ENGLISH  PART A-->
+                        <a class="th--notUsed txt-EN" href="/course/view.php?id=3#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-EN uk-margin th--green">Part A</h4>
+                        </a>
+
+                        <!-- GREEK  PART A-->
+                        <a class="th--notUsed txt-EL" href="/course/view.php?id=5#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-EL uk-margin th--green">Μέρος Α</h4>
+                        </a>
+
+                        <!-- GERMAN PART A-->
+                        <a class="th--notUsed txt-DE" href="/course/view.php?id=6#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-DE uk-margin th--green">Teil A</h4>
+                        </a>
+
+                        <!-- LATVIAN PART A-->
+                        <a class="th--notUsed txt-LV" href="/course/view.php?id=7#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-LV uk-margin th--green">A daļa</h4>
+                        </a>
+
+                        <!-- POLISH PART A-->
+                        <a class="th--notUsed txt-PL" href="/course/view.php?id=9#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-PL uk-margin th--green">Część A</h4>
+                        </a>
+
+                        <!-- PORTUGUESE PART A-->
+                        <a class="th--notUsed txt-PT" href="/course/view.php?id=8#section-0">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                                <!-- <p>Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.</p> -->
+                            </div>
+                            <h4 class="txt-PT uk-margin th--green">Parte A</h4>
+                        </a>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true; delay: 500" style="opacity: 0;">
+
+                        <!-- ENGLISH  PART B-->
+                        <a class="th--notUsed txt-EN" href="/course/view.php?id=3#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-EN uk-margin th--green">Part B</h4>
+                        </a>
+
+                        <!-- GREEK PART B-->
+                        <a class="th--notUsed txt-EL" href="/course/view.php?id=5#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-EL uk-margin th--green">Μέρος Β</h4>
+                        </a>
+
+                        <!-- GERMAN PART B-->
+                        <a class="th--notUsed txt-DE" href="/course/view.php?id=6#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-DE uk-margin th--green">Teil B</h4>
+                        </a>
+
+                        <!-- LATVIAN PART B-->
+                        <a class="th--notUsed txt-LV" href="/course/view.php?id=7#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-LV uk-margin th--green">B daļa</h4>
+                        </a>
+
+                        <!-- PORTUGUESE PART B-->
+                        <a class="th--notUsed txt-PT" href="/course/view.php?id=8#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-PT uk-margin th--green">Parte B</h4>
+                        </a>
+
+                        <!-- POLISH PART B-->
+                        <a class="th--notUsed txt-PL" href="/course/view.php?id=9#section-1">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-PL uk-margin th--green">Część B</h4>
+                        </a>
+
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 700" style="opacity: 0;">
+
+                        <!-- ENGLISH Learners Manual-->
+                        <a class="th--notUsed txt-EN" href="/custom__images/learners-manual/INTERFACE_PR1_Learner_Manual.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-EN uk-margin th--green">Learners Manual</h4>
+                        </a>
+
+                        <!-- GREEK Learners Manual -->
+                        <a class="th--notUsed txt-EL" href="/custom__images/learners-manual/INTERFACE_PR1_Learner Manual_GR.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-EL uk-margin th--green">Εγχειρίδιο μαθητών</h4>
+                        </a>
+
+                        <!-- GERMAN Learners Manual -->
+                        <a class="th--notUsed txt-DE" href="/custom__images/learners-manual/INTERFACE_PR1_Learner Manual_DE.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-DE uk-margin th--green">Handbuch für Lernende</h4>
+                        </a>
+
+                        <!-- LATVIAN Learners Manual -->
+                        <a class="th--notUsed txt-LV" href="/custom__images/learners-manual/INTERFACE_PR1_Learning_Manual_LV.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-LV uk-margin th--green">Izglītojamo rokasgrāmata</h4>
+                        </a>
+
+                        <!-- PORTUGUESE Learners Manual -->
+                        <a class="th--notUsed txt-PT" href="/custom__images/learners-manual/INTERFACE_PR1_Learner manual_PT.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-PT uk-margin th--green">Manual do Aluno</h4>
+                        </a>
+
+                        <!-- POLISH -->
+                        <a class="th--notUsed txt-PL" href="/custom__images/learners-manual/INTERFACE PR1 - Learner Manual PL.pdf" target="_blank">
+                            <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline">
+                                <!-- <span uk-icon="icon: cog; ratio: 4"></span> -->
+                                <img src="/custom__images/home-interface-train_package.svg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="300" height="300">
+                            </div>
+                            <h4 class="txt-PL uk-margin th--green">Podręcznik dla uczestników</h4>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- MODAL 2 CONTENT Online Training Programme -->
+<div id="modal-center2" class="uk-flex-top uk-modal uk-modal-container" uk-modal="">
+    <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+        <!-- <button class="uk-modal-close-outside" type="button" uk-close></button> -->
+        <button class="uk-modal-close-outside uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+                <line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line>
+                <line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line>
+            </svg></button>
+
+        <!-- MODAL 2 CONTENT -->
+        <div class="uk-section uk-padding-small">
+            <div class="DDuk-container">
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-EN">Infographics</h3>
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-DE">Infografiken</h3>
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-LV">Infografikas</h3>
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-PL">Infografiki</h3>
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-PT">Infografias</h3>
+                <h3 class="uk-h2 uk-text-bold uk-text-uppercase th--teal txt-EL">Infographics</h3>
+
+                <div class="uk-child-width-1-5@m uk-grid-match uk-text-center uk-margin-medium-top uk-grid uk-grid-stack" uk-grid="">
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 400" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-09.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Creative Thinking</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Kreatives Denken</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Radošā domāšana</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Kreatywne myślenie</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Pensamento criativo</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Δημιουργική σκέψη</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=2"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 600" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-10.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Enterpreneurial Spirit</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Unternehmerischer Geist</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Uzņēmējdarbības gars</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Duch przedsiębiorczości</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Espírito empreendedor</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Επιχειρηματικό πνεύμα</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=4"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 800" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-11.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Inter-generational Relationship</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Generationsübergreifend</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Starppaaudžu sadarbība</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Międzypokoleniowość</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Intergeracional</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Διαγενεακή</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=11"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 1000" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-12.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Communication</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Kommunikation</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Komunikācija</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Komunikacja</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Comunicação</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Επικοινωνία</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=12"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 1200" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-13.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Leadership</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Leiterschaft</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Līderība</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Przywództwo</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Liderança</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Ηγεσία</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=13"></a>
+                        </div>
+                    </div>
+
+
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 1200" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-14.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Teamwork</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Teamarbeit</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Komandas darbs</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Praca zespołowa</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Trabalho em equipa</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Ομαδική εργασία</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=14"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 1000" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-15.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Work Ethic</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Arbeitsethik</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Darba ētika</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Etyka pracy</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Ética de trabalho</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Ηθική εργασίας</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=15"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 800" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-16.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Problem Solving</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Problemlösung</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Problēmu risināšana</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Rozwiązywanie problemów</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Resolução de problemas</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Επίλυση προβλημάτων</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=16"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 600" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-17.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Innovation</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Innovation</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Inovācijas</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Innowacje</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Inovação</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Καινοτομία</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=17"></a>
+                        </div>
+                    </div>
+
+                    <div uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true; delay: 400" style="opacity: 0;">
+                        <div class="uk-border-rounded uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-padding-small uk-inline">
+                            <img src="/custom__images/infographics/icon-18.svg" alt="" role="presentation" class="img-fluid" width="300" height="300">
+                            <h5 class="h6 uk-margin th--green txt-EN">Digital Literacy</h5>
+                            <h5 class="h6 uk-margin th--green txt-DE">Digitale Alphabetisierung</h5>
+                            <h5 class="h6 uk-margin th--green txt-LV">Digitālā pratība</h5>
+                            <h5 class="h6 uk-margin th--green txt-PL">Umiejętności cyfrowe</h5>
+                            <h5 class="h6 uk-margin th--green txt-PT">Literacia digital</h5>
+                            <h5 class="h6 uk-margin th--green txt-EL">Ψηφιακός αλφαβητισμός</h5>
+                            <a class="uk-position-cover" href="/course/view.php?id=18"></a>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- https://uikitbase.com/snippets/56/uikit-3-three-columns-features-section-with-hover-shadow/ -->
